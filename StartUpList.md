@@ -19,4 +19,10 @@ Book Recommender
 
 Machine QA for a specific topic
 
+#### Day 2
+
 AB Test Life
+
+Professionals as a service (math helpers)
+
+Sell insights from data.
