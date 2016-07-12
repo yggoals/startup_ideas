@@ -26,3 +26,11 @@ AB Test Life
 Professionals as a service (math helpers)
 
 Sell insights from data.
+
+#### Day 3
+
+Social Media climbing platform
+
+Statistical consulting
+
+information aggregator
